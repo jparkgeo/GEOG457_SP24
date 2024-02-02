@@ -1,5 +1,8 @@
 # Folders
-Lab1/answers
+Lab1
+Lab2/answers
+Random
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
